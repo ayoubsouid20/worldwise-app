@@ -1,0 +1,10 @@
+SPA: SINGLE-PAGE-APPLICATION
+
+Application that is executed entirely on client (browsers),
+the page is never reloaded
+
+
+Link vs NavLink
+NavLink gives an active class we can configure in css later
+
+Index route is the default rout to be shown if any of the element not matched with url

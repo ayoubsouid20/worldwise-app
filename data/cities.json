@@ -1,0 +1,64 @@
+{
+  "cities": [
+    {
+      "id": "dc7d",
+      "cityName": "Rieumes",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-02T13:41:47.009Z",
+      "notes": "",
+      "position": {
+        "lat": "43.404386870446714",
+        "lng": "1.0919355062176452"
+      }
+    },
+    {
+      "id": "e43a",
+      "cityName": "Antequera",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-02T13:44:18.414Z",
+      "notes": "",
+      "position": {
+        "lat": "36.981286444249584",
+        "lng": "-4.709246459730658"
+      }
+    },
+    {
+      "id": "7007",
+      "cityName": "Alpuente",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-02T13:45:10.305Z",
+      "notes": "",
+      "position": {
+        "lat": "39.923732932997886",
+        "lng": "-1.0797510189975859"
+      }
+    },
+    {
+      "id": "8978",
+      "cityName": "Pozohondo",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-02T13:45:22.951Z",
+      "notes": "",
+      "position": {
+        "lat": "38.69904894823911",
+        "lng": "-1.871240217391046"
+      }
+    },
+    {
+      "id": "3e15",
+      "cityName": "Portet-sur-Garonne",
+      "country": "France",
+      "emoji": "🇫🇷",
+      "date": "2024-03-21T10:01:33.017Z",
+      "notes": "",
+      "position": {
+        "lat": "43.51668853502909",
+        "lng": "1.40625"
+      }
+    }
+  ]
+}
